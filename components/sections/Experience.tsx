@@ -7,7 +7,7 @@ const responsibilities = [
   "Diagnose hosting problems involving file permissions, server configuration, PHP errors, and database connectivity.",
   "Use SSH, linux commands, and WP-CLI to investigate website files and WordPress configurations.",
   "Examine error messages, HTTP response codes, and application behavior to identify root causes.",
-  "Document findings and coordinate with developers and technical teams on complex cases.",
+  "Document findings and coordinate with developers and higher technical teams on complex cases.",
 ];
 
 export default function Experience() {
