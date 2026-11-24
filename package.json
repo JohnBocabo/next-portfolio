@@ -1,3 +1,4 @@
+
 {
   "name": "next-portfolio",
   "version": "0.1.0",
@@ -9,30 +10,17 @@
     "lint": "eslint"
   },
   "dependencies": {
-<<<<<<< HEAD
     "next": "16.4.4",
     "react": "19.3.0",
     "react-dom": "19.3.0"
   },
   "devDependencies": {
-    "@tailwindcss/turbopack": "^4",
-=======
-    "next": "16.2.1",
-    "react": "19.2.4",
-    "react-dom": "19.2.4"
-  },
-  "devDependencies": {
     "@tailwindcss/postcss": "^4",
->>>>>>> origin/main
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
-<<<<<<< HEAD
     "eslint-config-next": "16.4.4",
-=======
-    "eslint-config-next": "16.2.1",
->>>>>>> origin/main
     "tailwindcss": "^4",
     "typescript": "^5"
   }
